@@ -1,0 +1,201 @@
+body{
+    background-image: url("img/WoodBG.png");
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+  margin-bottom: 15px;
+}
+
+.header{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;  
+}
+
+.logopadding{
+    padding-left: 10px;
+     padding-top: 15px;
+}
+
+.ingredientpadding{
+    padding-top: 28px;
+    padding-left: 0px;
+}
+.margindesc{
+    margin-left:120px;
+}
+
+.form-control{
+   height:25px !important;
+}
+
+.gap{
+    border-right: 1px solid white;
+}
+
+.searchdesc{
+    margin-top: 10px;
+    padding-right: 30px;
+    height:25px !important;
+    width:295px;
+    margin-left: 110px;
+}
+.input-group-addon{
+    padding: 3px !important;
+    border-radius: 0px !important;
+    background-color: #774240 !important;
+}
+
+.navbar {
+    margin-bottom: 0px !important;
+}
+
+.navbar-default {
+    background-color: #774240 !important;
+    border-color: #a94442;
+    border-bottom-left-radius: 12px !important;
+    border-bottom-right-radius: 12px !important;
+    margin-top: 10px ;
+    background: linear-gradient(#774240,#774240);
+}
+
+.navbar-default .navbar-nav>li>a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff !important;
+    font-size:16px;  
+}
+
+.mainblock{
+    border-radius: 10px;
+    margin-top:10px;
+}
+
+.container {
+    background-color: white;
+}
+
+.top{
+    margin-top:10px;
+}
+
+.right{
+    width:240px;
+    background-color: #f5f5f5 !important;
+    margin-bottom: 10px !important;
+}
+
+.columnpadding{
+    padding-right: 3px !important;
+    padding-top: 2px !important;
+    padding-left: 0px !important; 
+} 
+
+.left{
+    margin-left: 15px !important;
+    margin-top:10px;
+}
+
+.fontdesc{
+    padding:0 !important;
+    font-size:14px !important;
+}
+
+h1{
+    font-weight: normal !important;
+    padding: 9px 0px 0px 5px !important;
+    color: #274e37 !important;
+}
+
+h3{
+    font-size: 14px !important;
+    font-family: Arial !important;
+    font-weight: bold !important;
+    text-align: center;
+    padding-top: 7px !important;
+    padding: 0;
+    margin: 0 !important;
+    color:#274e37;
+}
+
+h4{
+    display:inline;
+    text-decoration: underline;
+    color: #774240 !important;
+    font-size: 12px !important;
+    font-family: Arial !important;
+    font-weight: bold !important;
+    padding-left:12px;
+}
+
+h6{
+   color: #774240 !important; 
+   font-weight: bold !important;
+}
+
+p{
+    padding: 5px 0px 5px 10px;    
+    font-size: 15px;
+    display: inline-block;
+}
+
+
+
+.panel-default > .panel-heading {
+    color: white !important;
+    background-color: #774240 !important;
+    border-color: #a94442;
+    font-family: Georgia, Arial;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.panel-body {
+    padding: 15px;
+    border: 1px solid brown;
+    border-top:0px;    
+}
+
+.sign_button{
+    margin-left: 40px;
+    background-color: #774240 !important;
+    color:white !important;
+}
+
+.imgdesc{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+
+.footer{
+    width: 22% !important;
+}
+ 
+.rightborder{
+    border-right: 1px solid #B2AFAF;
+    height:148px;
+}
+
+.imgpadding{
+    padding-top: 50px;
+    padding-left: 25px;
+}
+  
+.footerdesc{
+    width: 15% !important;
+
+}
+
+.footerfont{
+    font-size:12px;
+}
+
+.copy>p{
+    font-size:12px !important;
+    padding:0;
+    padding-top:20px;
+    padding-left:16px;
+}
